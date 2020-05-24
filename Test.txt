@@ -3,3 +3,4 @@ Test1 is conflicting
 merge conflict
 another change!
 change 1
+change 2
