@@ -1,4 +1,4 @@
-Test1 is first change
+Test --- 1 is first change
 Test1 is conflicting
 merge conflict
 another change!
